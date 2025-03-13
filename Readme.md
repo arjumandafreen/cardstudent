@@ -156,7 +156,6 @@ For questions or feedback, please contact:
 
 ---
 
-Enjoy using the **Student Report Card Generator**! 🚀
 
 
 
